@@ -1,0 +1,15 @@
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Advanced\FirstExampleLINQ\bin\Debug\net7.0\FirstExampleLINQ.exe
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Advanced\FirstExampleLINQ\bin\Debug\net7.0\FirstExampleLINQ.deps.json
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Advanced\FirstExampleLINQ\bin\Debug\net7.0\FirstExampleLINQ.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Advanced\FirstExampleLINQ\bin\Debug\net7.0\FirstExampleLINQ.dll
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Advanced\FirstExampleLINQ\bin\Debug\net7.0\FirstExampleLINQ.pdb
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Advanced\FirstExampleLINQ\obj\Debug\net7.0\FirstExampleLINQ.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Advanced\FirstExampleLINQ\obj\Debug\net7.0\FirstExampleLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Advanced\FirstExampleLINQ\obj\Debug\net7.0\FirstExampleLINQ.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Advanced\FirstExampleLINQ\obj\Debug\net7.0\FirstExampleLINQ.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Advanced\FirstExampleLINQ\obj\Debug\net7.0\FirstExampleLINQ.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Advanced\FirstExampleLINQ\obj\Debug\net7.0\FirstExampleLINQ.dll
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Advanced\FirstExampleLINQ\obj\Debug\net7.0\refint\FirstExampleLINQ.dll
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Advanced\FirstExampleLINQ\obj\Debug\net7.0\FirstExampleLINQ.pdb
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Advanced\FirstExampleLINQ\obj\Debug\net7.0\FirstExampleLINQ.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\Csharp_DotNet_Advanced\FirstExampleLINQ\obj\Debug\net7.0\ref\FirstExampleLINQ.dll
