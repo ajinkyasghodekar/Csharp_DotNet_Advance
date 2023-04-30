@@ -1,0 +1,15 @@
+D:\C#_DotNet\Csharp_DotNet_Advance\OOPS_ClassAndObject\bin\Debug\net7.0\OOPS_ClassAndObject.exe
+D:\C#_DotNet\Csharp_DotNet_Advance\OOPS_ClassAndObject\bin\Debug\net7.0\OOPS_ClassAndObject.deps.json
+D:\C#_DotNet\Csharp_DotNet_Advance\OOPS_ClassAndObject\bin\Debug\net7.0\OOPS_ClassAndObject.runtimeconfig.json
+D:\C#_DotNet\Csharp_DotNet_Advance\OOPS_ClassAndObject\bin\Debug\net7.0\OOPS_ClassAndObject.dll
+D:\C#_DotNet\Csharp_DotNet_Advance\OOPS_ClassAndObject\bin\Debug\net7.0\OOPS_ClassAndObject.pdb
+D:\C#_DotNet\Csharp_DotNet_Advance\OOPS_ClassAndObject\obj\Debug\net7.0\OOPS_ClassAndObject.csproj.AssemblyReference.cache
+D:\C#_DotNet\Csharp_DotNet_Advance\OOPS_ClassAndObject\obj\Debug\net7.0\OOPS_ClassAndObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_DotNet\Csharp_DotNet_Advance\OOPS_ClassAndObject\obj\Debug\net7.0\OOPS_ClassAndObject.AssemblyInfoInputs.cache
+D:\C#_DotNet\Csharp_DotNet_Advance\OOPS_ClassAndObject\obj\Debug\net7.0\OOPS_ClassAndObject.AssemblyInfo.cs
+D:\C#_DotNet\Csharp_DotNet_Advance\OOPS_ClassAndObject\obj\Debug\net7.0\OOPS_ClassAndObject.csproj.CoreCompileInputs.cache
+D:\C#_DotNet\Csharp_DotNet_Advance\OOPS_ClassAndObject\obj\Debug\net7.0\OOPS_ClassAndObject.dll
+D:\C#_DotNet\Csharp_DotNet_Advance\OOPS_ClassAndObject\obj\Debug\net7.0\refint\OOPS_ClassAndObject.dll
+D:\C#_DotNet\Csharp_DotNet_Advance\OOPS_ClassAndObject\obj\Debug\net7.0\OOPS_ClassAndObject.pdb
+D:\C#_DotNet\Csharp_DotNet_Advance\OOPS_ClassAndObject\obj\Debug\net7.0\OOPS_ClassAndObject.genruntimeconfig.cache
+D:\C#_DotNet\Csharp_DotNet_Advance\OOPS_ClassAndObject\obj\Debug\net7.0\ref\OOPS_ClassAndObject.dll
