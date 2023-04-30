@@ -1,0 +1,15 @@
+D:\C#_DotNet\Csharp_DotNet_Advanced\AsyncAwaitExample\bin\Debug\net7.0\AsyncAwaitExample.exe
+D:\C#_DotNet\Csharp_DotNet_Advanced\AsyncAwaitExample\bin\Debug\net7.0\AsyncAwaitExample.deps.json
+D:\C#_DotNet\Csharp_DotNet_Advanced\AsyncAwaitExample\bin\Debug\net7.0\AsyncAwaitExample.runtimeconfig.json
+D:\C#_DotNet\Csharp_DotNet_Advanced\AsyncAwaitExample\bin\Debug\net7.0\AsyncAwaitExample.dll
+D:\C#_DotNet\Csharp_DotNet_Advanced\AsyncAwaitExample\bin\Debug\net7.0\AsyncAwaitExample.pdb
+D:\C#_DotNet\Csharp_DotNet_Advanced\AsyncAwaitExample\obj\Debug\net7.0\AsyncAwaitExample.csproj.AssemblyReference.cache
+D:\C#_DotNet\Csharp_DotNet_Advanced\AsyncAwaitExample\obj\Debug\net7.0\AsyncAwaitExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#_DotNet\Csharp_DotNet_Advanced\AsyncAwaitExample\obj\Debug\net7.0\AsyncAwaitExample.AssemblyInfoInputs.cache
+D:\C#_DotNet\Csharp_DotNet_Advanced\AsyncAwaitExample\obj\Debug\net7.0\AsyncAwaitExample.AssemblyInfo.cs
+D:\C#_DotNet\Csharp_DotNet_Advanced\AsyncAwaitExample\obj\Debug\net7.0\AsyncAwaitExample.csproj.CoreCompileInputs.cache
+D:\C#_DotNet\Csharp_DotNet_Advanced\AsyncAwaitExample\obj\Debug\net7.0\AsyncAwaitExample.dll
+D:\C#_DotNet\Csharp_DotNet_Advanced\AsyncAwaitExample\obj\Debug\net7.0\refint\AsyncAwaitExample.dll
+D:\C#_DotNet\Csharp_DotNet_Advanced\AsyncAwaitExample\obj\Debug\net7.0\AsyncAwaitExample.pdb
+D:\C#_DotNet\Csharp_DotNet_Advanced\AsyncAwaitExample\obj\Debug\net7.0\AsyncAwaitExample.genruntimeconfig.cache
+D:\C#_DotNet\Csharp_DotNet_Advanced\AsyncAwaitExample\obj\Debug\net7.0\ref\AsyncAwaitExample.dll
